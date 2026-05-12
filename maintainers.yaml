@@ -1,0 +1,34 @@
+# Maintainer roster for k0s
+# Documentation: https://github.com/cncf/automation/tree/main/utilities/dot-project
+
+
+maintainers:
+  - project_id: "k0s"
+    org: "k0sproject"
+    teams:
+      - name: "project-maintainers"
+        members:
+          - emosbaugh
+          - jnummelin
+          - juanluisvaladas
+          - kke
+          - makhov
+          - ncopa
+          - ricardomaraschini
+          - twz123
+          - cheftako
+          - mcrute
+          - anfernee
+          - andrewsykim
+          - caesarxuchao
+          - apedriza
+      - name: "reviewers"
+        members:
+          - caesarxuchao
+          - dberkov
+          - jefftree
+          - jkh52
+          - makhov
+          - apedriza
+          - jnummelin
+          - kahirokunn
