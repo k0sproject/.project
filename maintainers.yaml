@@ -8,6 +8,7 @@ maintainers:
     teams:
       - name: "project-maintainers"
         members:
+          - apedriza
           - emosbaugh
           - jnummelin
           - kke
