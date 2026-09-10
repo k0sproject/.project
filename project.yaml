@@ -9,7 +9,9 @@ name: "k0s"
 description: "k0s is a CNCF-certified lightweight, Kubernetes distribution with zero dependencies and zero opinion."
 type: "project"
 project_lead: "emosbaugh" # TODO: AUTO-DETECTED — please verify
-cncf_slack_channel: "#k0s-dev" # TODO: AUTO-DETECTED — please verify
+slack_channels: # TODO: AUTO-DETECTED — please verify the channel(s) below
+  - name: "#k0s-dev"
+    primary: true
 # Also detected: "#forest" — please verify the correct channel
 
 maturity_log:
