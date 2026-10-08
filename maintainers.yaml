@@ -15,3 +15,9 @@ maintainers:
           - makhov
           - ncopa
           - twz123
+      - name: "project-reviewers"
+        members: []
+      - name: "project-contributors"
+        members:
+          - juanluisvaladas
+          - soltysh
