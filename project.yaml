@@ -24,7 +24,7 @@ repositories:
 
 website: "https://k0sproject.io/"
 
-artwork: "https://landscape.cncf.io/logos/k0s-logo-2025.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/k0s"
 
 adopters:
   path: "https://github.com/k0sproject/k0s/blob/main/ADOPTERS.md"
